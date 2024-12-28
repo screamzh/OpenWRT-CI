@@ -232,8 +232,7 @@ jobs:
 
             全系带开源硬件加速，别问了！
 
-            WIFI名称：${{env.WRT_SSID}}
-            WIFI密码：${{env.WRT_WORD}}
+
 
             源码：${{env.WRT_REPO}}
             分支：${{env.WRT_BRANCH}}
